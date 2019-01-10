@@ -13,30 +13,68 @@ subtitle = ""
 weight = 7
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # Available icon packs and icons:
 # * fas - Font Awesome standard icons (see https://fontawesome.com/icons)
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
+  icon = "code"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Computer Science"
+  description = "Algorithm, Data Structure, Theory"
 
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Database"
+  description = "SQL, MapReduce"  
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Version Control"
+  description = "Github, SVN"
+
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Programming Languages"
+  description = "C/C++, Python, R, MATLAB"
+
+[[feature]]
+  icon = "lock"
+  icon_pack = "fas"
+  name = "Security"
+  description = "Cryptography, software security"
+
+[[feature]]
+  icon = "microchip"
+  icon_pack = "fas"
+  name = "Digital Electronics"
+  description = "MOSFET, circuit layout simulations, Verilog"
+
+
+[[feature]]
+    icon = "python"
+    icon_pack = "fab"
+    name = "Deep learning frameworks"
+    description = "Pytorch, Tensorflow"
+
+
+[[feature]]
+    icon = "signal"
+    icon_pack = "fas"
+    name = "Computer Networks"
+    description = "Internet protocols"
+
+
+[[feature]]
+    icon = "terminal"
+    icon_pack = "fas"
+    name = "Operating Systems"
+    description = "Unix-like systems, OS programming, Computer Architecture"
 +++

@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Deep Learning",
+    "Computer Science",
+    "Computer Engineering"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Professional MS in Machine Learning // Maîtrise Professionelle en informatique avec stage"
+  institution = "MILA Lab // University of Montreal"
+  year = 2020
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "BASc in Computer Engineering, 2018"
+  institution = "University of Toronto, Main Campus(St George Campus)"
+  year = 2018
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently studying Professional MS in Machine Learning (internship option) at University of Montreal, affiliated with MILA lab. I graduated from University of Toronto Electrical and Computer Engineering program in June 2018. I previously interned software positions with electrical and biomedical research context, and have transitioned into computer science with concentration in data science, machine learning, and deep learning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Coming from ECE background, I am interested in both the statistical inference learning aspect and software/systems/hardware optimization and security of deep learning applications.
+
+N.B. My last name is pronounced “kuo”, not “joe”
