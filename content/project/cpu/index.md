@@ -1,11 +1,11 @@
 +++
-title = "Security Project Github Repo"
-date = 2019-01-12T15:47:52-05:00
+title = "Cpu"
+date = 2019-01-12T17:00:02-05:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["os", "C", "assembly", "security"]
+tags = []
 
 # Project summary to display on homepage.
 summary = ""
@@ -19,7 +19,7 @@ summary = ""
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/violetguos/ece568_security"
+external_link = "https://github.com/violetguos/multicycle_processor"
 
 # Links (optional).
 url_pdf = ""
@@ -37,9 +37,9 @@ url_poster = ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "k"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""  
+  focal_point = ""
 +++
