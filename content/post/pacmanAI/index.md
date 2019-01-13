@@ -8,8 +8,8 @@ authors = []
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-categories = []
+tags = ["AI", "csp", "game-tree"]
+categories = ["AI", "csp", "game-tree"]
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
