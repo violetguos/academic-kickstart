@@ -37,7 +37,7 @@ weight = 7
   icon = "github"
   icon_pack = "fab"
   name = "Version Control"
-  description = "Github, SVN"
+  description = "Git, SVN"
 
 [[feature]]
   icon = "code"
