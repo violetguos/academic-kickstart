@@ -1,6 +1,6 @@
 +++
 title = "Security Project: Exploiting OS using C and Assembly"
-date = 2019-01-12T16:10:39-05:00
+date = 2017-11-12T16:10:39-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -9,7 +9,7 @@ authors = []
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["os", "C", "assembly", "security"]
-categories = ["os", "C", "assembly", "security"]
+categories = ["os", "C", "assembly", "security", "systems"]
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

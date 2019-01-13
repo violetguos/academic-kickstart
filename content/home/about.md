@@ -30,7 +30,7 @@ weight = 5
 
 +++
 
-# Biography
+# Hello!
 
 I am currently studying Professional MS in Machine Learning (internship option) at University of Montreal, affiliated with MILA lab. I graduated from University of Toronto Electrical and Computer Engineering program in June 2018. I previously interned software positions with electrical and biomedical research context, and have transitioned into computer science with concentration in data science, machine learning, and deep learning.
 

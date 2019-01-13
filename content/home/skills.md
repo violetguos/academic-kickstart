@@ -22,7 +22,7 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "code"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Computer Science"
   description = "Algorithm, Data Structure, Theory"
@@ -40,7 +40,7 @@ weight = 7
   description = "Github, SVN"
 
 [[feature]]
-  icon = "laptop-code"
+  icon = "code"
   icon_pack = "fas"
   name = "Programming Languages"
   description = "C/C++, Python, R, MATLAB"

@@ -6,8 +6,8 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 date = 2016-04-20T00:00:00
 
-title = "Recent Posts"
-subtitle = ""
+title = "Project Posts"
+subtitle = "Detailed description of my projects"
 
 # Number of recent posts to list.
 count = 5
@@ -23,4 +23,3 @@ list_format = 2
 filter_tag = ""
 filter_category = ""
 +++
-

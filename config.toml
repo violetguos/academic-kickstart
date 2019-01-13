@@ -266,10 +266,10 @@ enableGitInfo = false
     icon_pack = "fas"
     link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "https://twitter.com/YVioletGuo"
+  # [[params.social]]
+  #   icon = "twitter"
+  #   icon_pack = "fab"
+  #   link = "https://twitter.com/YVioletGuo"
 
   # [[params.social]]
   #   icon = "google-scholar"
@@ -307,28 +307,34 @@ enableGitInfo = false
   url = "#skills"
   weight = 2
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 3
+# [[menu.main]]
+#   name = "Projects"
+#   url = "#projects"
+#   weight = 3
 
 [[menu.main]]
   name = "Posts"
   url = "#posts"
   weight = 4
 
+[[menu.main]]
+   name = "CV"
+   url = "#cv"
+   weight = 5
+
+[[menu.main]]
+  name = "Courses"
+  url = "#courses"
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[menu.main]]
-   name = "CV"
-   url = "#cv"
-   weight = 6
+
 
 # Search.
 [params.search]

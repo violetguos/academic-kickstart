@@ -14,4 +14,4 @@ subtitle = ""
 weight = 60
 
 +++
-My CV is available in [HTML](project/) or [PDF](cv/cv.pdf) form.
+My CV is available in [HTML](cv/) or [PDF](cv/cv.pdf) form.
