@@ -11,8 +11,13 @@ authors = []
 tags = ["deep-learning"]
 categories = ["deep-learning"]
 
-url_code = "https://github.com/violetguos/project-ift6390"
-
+# Links (optional).
+url_pdf = ""
+url_code = "https://github.com/violetguos/project-ift6390/blob/master/Speaker%20Accent%20Classification%20with%20Deep%20Learning%20-%20Poster.pdf"
+url_dataset = ""
+url_slides = ""
+url_video = ""
+url_poster = "https://github.com/violetguos/project-ift6390/blob/master/Speaker%20Accent%20Classification%20with%20Deep%20Learning%20-%20Poster.pdf"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
