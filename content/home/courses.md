@@ -17,7 +17,7 @@ weight = 60
 
 ## Graduate UdeM
 
-* IFT 6135 Deep Learning*
+* IFT 6135 Deep Learning
 * IFT 6759 Advanced Projects in Deep Learning*
   * Projects supported by Mila Lab and Calcul Quebec
 * IFT6758 Data Science // Science des Données

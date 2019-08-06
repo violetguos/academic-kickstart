@@ -31,7 +31,7 @@ weight = 7
   icon = "database"
   icon_pack = "fas"
   name = "Database"
-  description = "SQL, MapReduce"  
+  description = "SQL"  
 
 [[feature]]
   icon = "github"
@@ -46,35 +46,9 @@ weight = 7
   description = "C/C++, Python, R, MATLAB"
 
 [[feature]]
-  icon = "lock"
-  icon_pack = "fas"
-  name = "Security"
-  description = "Cryptography, software security"
-
-[[feature]]
-  icon = "microchip"
-  icon_pack = "fas"
-  name = "Digital Electronics"
-  description = "MOSFET, circuit layout simulations, Verilog"
-
-
-[[feature]]
     icon = "python"
     icon_pack = "fab"
     name = "Deep learning frameworks"
     description = "Pytorch, Tensorflow"
 
-
-[[feature]]
-    icon = "signal"
-    icon_pack = "fas"
-    name = "Computer Networks"
-    description = "Internet protocols"
-
-
-[[feature]]
-    icon = "terminal"
-    icon_pack = "fas"
-    name = "Operating Systems"
-    description = "Unix-like systems, OS programming, Computer Architecture"
 +++
